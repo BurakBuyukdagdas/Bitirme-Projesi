@@ -1,0 +1,67 @@
+﻿@using EntityLayer.Concrete
+@model List<Project>
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col">
+        <div class="card bg-default shadow">
+            <div class="card-header bg-transparent border-0">
+            </div>
+            <div class="table-responsive">
+                <table class="table align-items-center table-dark table-flush">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">Başlık</th>
+                            <th scope="col">Açıklama</th>
+                            <th scope="col">Resim</th>
+                            <th scope="col">Sil</th>
+                            <th scope="col">Düzenle</th>
+                        </tr>
+                    </thead>
+                    <tbody class="list">
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <th scope="row">
+                                    <div class="media align-items-center">
+                                        <div class="media-body">
+                                            <span class="name mb-0 text-sm">@item.Title</span>
+                                        </div>
+                                    </div>
+                                </th>
+                                <td class="budget">
+                                    @{
+                                        string description = item.Description;
+                                        if (description != null)
+                                        {
+                                            description = description.Length <= 20 ? description : description.Substring(0, 20);
+                                        }
+                                    }
+                                    @description ...
+                                </td>
+                                <td>
+                                    <div class="avatar-group">
+                                        <a href="#" class="avatar avatar-sm rounded-circle" data-toggle="tooltip" data-original-title="Ryan Tompson">
+                                            <img alt="Image placeholder" src="@item.Image">
+                                        </a>
+                                    </div>
+                                </td>
+                                <td><a href="/Project/DeleteProject/@item.ProjectID" class="btn btn-outline-danger">Sil</a></td>
+                                <td><a href="/Project/EditProject/@item.ProjectID" class="btn btn-outline-warning">Düzenle</a></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+<a href="/Project/AddProject/" class="btn btn-primary">Proje Ekle</a>
+
+

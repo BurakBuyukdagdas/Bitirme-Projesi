@@ -1,0 +1,66 @@
+﻿@using EntityLayer.Concrete
+@model List<About>
+
+<div class="slide" id="2">
+    <div class="content second-content">
+        <div class="container-fluid">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-6">
+                    <div class="left-content">
+                        <h2>@item.Title</h2>
+                        <p>@item.Description</p>
+                        <div class="main-btn"><a href="#3">Projelerim</a></div>
+                    </div>
+                </div>
+            }
+            <div class="col-md-6">
+                <div class="left-content">
+                    <h2>Kişisel Bilgiler</h2>
+                    <table style="width:100%; font-size: 16px; color: white;">
+                        <!-- Stil ve renk ayarları burada yapılıyor -->
+                        <tr>
+                            <td style="width:50%;">Doğum Tarihi:</td>
+                            <td style="width:50%;">02.01.1995</td>
+                        </tr>
+                        <tr>
+                            <td style="width:50%;">Medeni Durumu:</td>
+                            <td style="width:50%;">Bekar</td>
+                        </tr>
+                        <tr>
+                            <td style="width:50%;">Sürücü Belgesi:</td>
+                            <td style="width:50%;">A2+B</td>
+                        </tr>
+                        <tr>
+                            <td style="width:50%;">Askerlik Durumu:</td>
+                            <td style="width:50%;">Tamamlandı</td>
+                        </tr>
+                        <tr>
+                            <td style="width:50%;">Seyahat Engeli:</td>
+                            <td style="width:50%;">Yok</td>
+                        </tr>
+                        <tr>
+                            <td style="width:50%;">Mail Adresi:</td>
+                            <td style="width:50%;">iz.burak@hotmail.com</td>
+                        </tr>
+                        <tr>
+                            <td style="width:50%;">Telefon No:</td>
+                            <td style="width:50%;">+905345811690</td>
+                        </tr>
+                        <tr>
+                            <td style="width:50%;">Konum Bilgisi:</td>
+                            <td style="width:50%;">İzmir Gaziemir</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+
+            @* <div class="col-md-6">
+            <div class="right-image">
+            <img src="https://img.imgyukle.com/2023/10/25/yRZV1p.jpeg" alt="">
+            </div>
+            </div>*@
+        </div>
+    </div>
+</div>

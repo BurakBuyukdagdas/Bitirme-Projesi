@@ -1,0 +1,33 @@
+﻿@using EntityLayer.Concrete
+@model List<Project>
+
+
+<div class="col-md-8 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <div class="d-flex flex-row justify-content-between">
+                <h4 class="card-title">Son 4 Proje</h4>
+            </div>
+            <div class="preview-list">
+                @foreach (var item in Model)
+                {
+                    var truncatedDescription = item.Description.Length > 80 ? item.Description.Substring(0, 80) : item.Description;
+                    <div class="preview-item border-bottom">
+                        <div class="preview-thumbnail">
+                            <img src="@item.Image" />
+                        </div>
+                        <div class="preview-item-content d-flex flex-grow">
+                            <div class="flex-grow">
+                                <div class="d-flex d-md-block d-xl-flex justify-content-between">
+                                    <h6 class="preview-subject">@item.Title</h6>
+                                </div>
+                                <p class="text-muted">@truncatedDescription...</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>

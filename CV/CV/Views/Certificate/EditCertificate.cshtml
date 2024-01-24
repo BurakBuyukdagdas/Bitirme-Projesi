@@ -1,0 +1,56 @@
+﻿@model EntityLayer.Concrete.Certificate
+
+
+@{
+    ViewData["Title"] = "EditCertificate";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+<div class="card-header border-0">
+    <h3 class="mb-0">Sertifika Düzenleme Sayfası</h3>
+</div>
+@using(Html.BeginForm("EditCertificate","Certificate",FormMethod.Post))
+{
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <form class="forms-sample">
+                    <div class="form-group">
+                        <label>Sertifika ID</label>
+                        @Html.TextBoxFor(x=>x.CertificateID,new{@class="form-control"})
+                    </div>
+                    <div class="form-group">
+                        <label>Sertifika Platformu</label>
+                        @Html.TextBoxFor(x=>x.Paltform,new{@class="form-control"})
+                    </div>
+                    <div class="form-group">
+                        <label>Sertifika Sertifika Başlığı</label>
+                        @Html.TextBoxFor(x=>x.Title, new { @class="form-control" })
+                        @Html.ValidationMessageFor(x=>x.Title)
+                    </div>
+                    <div class="form-group">
+                        <label>Sertifika Açıklaması</label>
+                        @Html.TextAreaFor(x=>x.Description,2,10, new { @class="form-control" })
+                        @Html.ValidationMessageFor(x=>x.Description)
+                    </div>
+                    <div class="form-group">
+                        <label>Sertifika Durumu</label>
+                        @Html.TextBoxFor(x=>x.Status, new { @class="form-control" })
+                        @Html.ValidationMessageFor(x=>x.Status)
+                    </div>
+                    <div class="form-group">
+                        <label>Sertifika Görseli</label>
+                        @Html.TextBoxFor(x=>x.Image, new { @class="form-control" })
+                        @Html.ValidationMessageFor(x=>x.Image)
+                    </div>
+                    <div class="form-group">
+                        <label>Sertifika Tamamlanması</label>
+                        @Html.TextBoxFor(x=>x.Value, new { @class="form-control" })
+                        @Html.ValidationMessageFor(x=>x.Value)
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Güncelle</button>
+                </form>
+            </div>
+        </div>
+    </div>
+}

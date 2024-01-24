@@ -1,0 +1,60 @@
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\izbur\Desktop\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\izbur\Desktop\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\izbur\Desktop\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\izbur\Desktop\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\izbur\Desktop\CV\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\izbur\Desktop\CV\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\izbur\Desktop\CV\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\izbur\Desktop\CV\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\izbur\Desktop\CV\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\izbur\Desktop\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\izbur\Desktop\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izbur\Desktop\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\izbur\Desktop\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\izbur\Desktop\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\izbur\Desktop\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\izbur\Desktop\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\izbur\Desktop\CV\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\izbur\Desktop\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\izbur\Desktop\CV\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\izbur\Desktop\CV\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll

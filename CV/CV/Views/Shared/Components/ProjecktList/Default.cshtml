@@ -1,0 +1,48 @@
+﻿@using EntityLayer.Concrete
+@model List<Project>
+
+
+<style>
+    /* İçerikler arasında boşluk bırakmak için */
+    .col-md-12 {
+        margin-bottom: 20px;
+    }
+
+    /* Görsellerin daha küçük olması için */
+    .right-image img {
+        max-width: 100%;
+        height: auto;
+    }
+</style>
+
+
+<div class="slide" id="3">
+    <div class="content third-content">
+        <div class="container-fluid">
+            @foreach(var item in Model)
+            {
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="first-section">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="left-content">
+                                            <h2>@item.Title</h2>
+                                            <p>@item.Description</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="right-image">
+                                            <img src="@item.Image" alt="first service">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,35 @@
+﻿@using EntityLayer.Concrete
+@model List<Certificate>
+
+<div class="slide" id="4">
+    <div class="content fourth-content">
+        <div class="container-fluid">
+            @for (int i = 0; i < Model.Count; i += 3)
+            {
+                <div class="row">
+                    @for (int j = i; j < Math.Min(i + 3, Model.Count); j++)
+                    {
+                        var item = Model[j];
+                        <div class="col-md-4 col-sm-6">
+                            <div class="item">
+                                <div class="thumb">
+                                    <a href="@item.Image" data-lightbox="@item.Image">
+                                        <div class="hover-effect">
+                                            <div class="hover-content">
+                                                <h2>@item.Title</h2>
+                                                <p>@item.Description</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    <div class="image">
+                                        <img src="@item.Image">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+        </div>
+    </div>
+</div>

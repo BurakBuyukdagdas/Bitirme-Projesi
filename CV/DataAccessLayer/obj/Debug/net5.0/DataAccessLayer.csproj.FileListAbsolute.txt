@@ -1,0 +1,54 @@
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\CV\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\izbur\Desktop\Çalışma Alanı\CV\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\izbur\Desktop\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\izbur\Desktop\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\izbur\Desktop\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\izbur\Desktop\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\izbur\Desktop\CV\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\izbur\Desktop\CV\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\izbur\Desktop\CV\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\izbur\Desktop\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\izbur\Desktop\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izbur\Desktop\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\izbur\Desktop\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\izbur\Desktop\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\izbur\Desktop\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\izbur\Desktop\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\izbur\Desktop\CV\DataAccessLayer\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\izbur\Desktop\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\izbur\Desktop\CV\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\izbur\Desktop\CV\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll

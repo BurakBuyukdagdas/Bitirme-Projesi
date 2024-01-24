@@ -1,0 +1,32 @@
+﻿@using EntityLayer.Concrete
+@model List<Certificate>
+
+
+
+<div class="col-md-6 col-xl-4 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <div class="d-flex flex-row justify-content-between">
+                <h4 class="card-title">Son 4 Sertifika</h4>
+            </div>
+            <div class="preview-list">
+                @foreach (var item in Model)
+                {
+                    <div class="preview-item border-bottom">
+                        <div class="preview-thumbnail">
+                            <img src="@item.Image"  />
+                        </div>
+                        <div class="preview-item-content d-flex flex-grow">
+                            <div class="flex-grow">
+                                <div class="d-flex d-md-block d-xl-flex justify-content-between">
+                                    <h6 class="preview-subject">@item.Title</h6>
+                                </div>
+                                <p class="text-muted">@item.Status</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

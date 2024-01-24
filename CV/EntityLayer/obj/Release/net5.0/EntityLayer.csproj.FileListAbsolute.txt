@@ -1,0 +1,15 @@
+C:\Users\izbur\Desktop\CV\EntityLayer\bin\Release\net5.0\EntityLayer.deps.json
+C:\Users\izbur\Desktop\CV\EntityLayer\bin\Release\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\izbur\Desktop\CV\EntityLayer\bin\Release\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\izbur\Desktop\CV\EntityLayer\bin\Release\net5.0\EntityLayer.dll
+C:\Users\izbur\Desktop\CV\EntityLayer\bin\Release\net5.0\EntityLayer.pdb
+C:\Users\izbur\Desktop\CV\EntityLayer\obj\Release\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\izbur\Desktop\CV\EntityLayer\obj\Release\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izbur\Desktop\CV\EntityLayer\obj\Release\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\izbur\Desktop\CV\EntityLayer\obj\Release\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\izbur\Desktop\CV\EntityLayer\obj\Release\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\izbur\Desktop\CV\EntityLayer\obj\Release\net5.0\EntityLayer.dll
+C:\Users\izbur\Desktop\CV\EntityLayer\obj\Release\net5.0\refint\EntityLayer.dll
+C:\Users\izbur\Desktop\CV\EntityLayer\obj\Release\net5.0\EntityLayer.pdb
+C:\Users\izbur\Desktop\CV\EntityLayer\obj\Release\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\izbur\Desktop\CV\EntityLayer\obj\Release\net5.0\ref\EntityLayer.dll
